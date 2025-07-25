@@ -14,3 +14,4 @@ In this project, I needed to do those thinks:
 6.Wireless LAN Controller-based wireless LAN with enterprise authentication.
 
  Devices were configured the Central and Branch-101 routers, the S1-1 switch, and the WLC-10 wireless LAN controller,PCS AND Servers.
+![Uploading image.png…]()
